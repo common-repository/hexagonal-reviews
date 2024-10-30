@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: hexagonal-reviews\n"
+"POT-Creation-Date: 2021-01-26 20:59+0100\n"
+"PO-Revision-Date: 2021-01-26 21:00+0100\n"
+"Last-Translator: \n"
+"Language-Team: cristian bargans\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ../src\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html;esc_html__;esc_attr;esc_attr__;"
+"esct_attr_e;esc_html_e;_e(ucfirst\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: Shared/Infrastructure/Period/Period.php:28
+msgid "less than 1 second ago"
+msgstr "Hace menos de un segundo."
+
+#: Shared/Infrastructure/Period/Period.php:33
+msgid "year"
+msgstr "año"
+
+#: Shared/Infrastructure/Period/Period.php:34
+msgid "years"
+msgstr "años"
+
+#: Shared/Infrastructure/Period/Period.php:37
+msgid "month"
+msgstr "mes"
+
+#: Shared/Infrastructure/Period/Period.php:38
+msgid "months"
+msgstr "meses"
+
+#: Shared/Infrastructure/Period/Period.php:41
+msgid "day"
+msgstr "día"
+
+#: Shared/Infrastructure/Period/Period.php:42
+msgid "days"
+msgstr "días"
+
+#: Shared/Infrastructure/Period/Period.php:45
+msgid "hour"
+msgstr "hora"
+
+#: Shared/Infrastructure/Period/Period.php:46
+msgid "hours"
+msgstr "horas"
+
+#: Shared/Infrastructure/Period/Period.php:49
+msgid "minute"
+msgstr "minuto"
+
+#: Shared/Infrastructure/Period/Period.php:50
+msgid "minutes"
+msgstr "minutos"
+
+#: Shared/Infrastructure/Period/Period.php:53
+msgid "second"
+msgstr "segundo"
+
+#: Shared/Infrastructure/Period/Period.php:54
+msgid "seconds"
+msgstr "segundos"
+
+#: Shared/Infrastructure/Period/Period.php:63
+msgid "about"
+msgstr "hace"
+
+#: Shared/Infrastructure/Period/Period.php:63
+msgid " ago."
+msgstr "."
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:74
+msgid "Uuid"
+msgstr "Uuid"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:75
+msgid "Post Id"
+msgstr "ID de Post"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:76
+#, fuzzy
+#| msgid "Post Id"
+msgid "Post Name"
+msgstr "ID de Post"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:77
+msgid "Status"
+msgstr "Estado"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:78
+msgid "Titulo"
+msgstr "Título"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:79
+msgid "Autor"
+msgstr "Autor"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:80
+msgid "content"
+msgstr "contenido"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:81
+#: UI/Wordpress/Admin/templates/EditReview.php:57
+#: UI/Wordpress/Admin/templates/EditReview.php:58
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:75
+msgid "Email"
+msgstr "Email"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:82
+msgid "Estrellas"
+msgstr "Estrellas"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:83
+msgid "fecha de creacion"
+msgstr "fecha de creacion"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:84
+msgid "fecha de actualizacion"
+msgstr "fecha de actualizacion"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:144
+#: UI/Wordpress/Admin/templates/EditReview.php:33
+msgid "pending"
+msgstr "pendiente"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:146
+#: UI/Wordpress/Admin/templates/EditReview.php:36
+msgid "published"
+msgstr "publicado"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:148
+#: UI/Wordpress/Admin/templates/EditReview.php:39
+msgid "rejected"
+msgstr "denegado"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:165
+msgid "Publish"
+msgstr "Publicar"
+
+#: Shared/Infrastructure/Wordpress/ReviewsAdminTable.php:166
+msgid "Delete"
+msgstr "Eliminar"
+
+#: UI/Wordpress/Admin/EditReviewController.php:46
+#: UI/Wordpress/Admin/templates/EditReview.php:23
+msgid "Edit Review"
+msgstr "Editar Review"
+
+#: UI/Wordpress/Admin/ListReviewsController.php:108
+msgid "Review"
+msgstr "Review"
+
+#: UI/Wordpress/Admin/ListReviewsController.php:109
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:49
+msgid "Reviews"
+msgstr "Reviews"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:26
+#: UI/Wordpress/Admin/templates/EditReview.php:27
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:15
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:16
+msgid "Post ID:"
+msgstr "ID de Post:"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:30
+msgid "Status:"
+msgstr "Estado:"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:32
+#: UI/Wordpress/Admin/templates/EditReview.php:35
+#: UI/Wordpress/Admin/templates/EditReview.php:38
+msgid "selected=\"selected\""
+msgstr "selected=“selected”"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:44
+#: UI/Wordpress/Admin/templates/EditReview.php:45
+msgid "Author"
+msgstr "Autor"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:48
+msgid "Stars"
+msgstr "Valoración"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:61
+#: UI/Wordpress/Admin/templates/EditReview.php:62
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:79
+msgid "Title"
+msgstr "Título"
+
+#: UI/Wordpress/Admin/templates/EditReview.php:66
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:84
+msgid "Content"
+msgstr "Contenido"
+
+#: UI/Wordpress/Admin/templates/ListReviews.php:17
+msgid "List Reviews"
+msgstr "Listar Reviews"
+
+#: UI/Wordpress/Admin/templates/ListReviews.php:18
+msgid "Create New"
+msgstr "Crear Nueva Review"
+
+#: UI/Wordpress/Admin/templates/ListReviews.php:23
+msgid "Option only for PRO Users"
+msgstr "Opcion única para usuarios poseedores de la versión PRO"
+
+#: UI/Wordpress/Admin/templates/ListReviews.php:28
+msgid "You can show your reviews using the shortcut:"
+msgstr "Puedes añadir las reviews en los post usando el shortcut:"
+
+#: UI/Wordpress/Admin/templates/ListReviews.php:33
+msgid "Search"
+msgstr "Búsqueda"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:13
+msgid "Shortcut Generator"
+msgstr "Generador de Shortcuts"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:19
+msgid "Form:"
+msgstr "Formulario:"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:22
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:33
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:44
+msgid "Show"
+msgstr "Mostrar"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:25
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:36
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:47
+msgid "Hide"
+msgstr "Esconder"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:30
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:40
+msgid "Average:"
+msgstr "Valoración media:"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:41
+msgid "Reviews:"
+msgstr "Reviews:"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:52
+msgid "Rich Snippet type:"
+msgstr "Tipo de Rich Snippet:"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:55
+msgid "Product"
+msgstr "Product"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:58
+msgid "LocalBusiness"
+msgstr "LocalBusiness"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:61
+msgid "none"
+msgstr "Ninguno"
+
+#: UI/Wordpress/Admin/templates/ShortcutGenerator.php:66
+msgid "WordPress Shortcut"
+msgstr "Shortcut de Wordpress"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:44
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:120
+msgid "checked=\"checked\""
+msgstr "checked=“checked”"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:49
+msgid "of"
+msgstr "de"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:54
+msgid "Review product"
+msgstr "Valorar producto"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:55
+msgid "Share your opinion with other clients"
+msgstr "Comparte tu opinión con otros clientes"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:58
+msgid ""
+"Thank you for your review! Your review is on approval process, once is "
+"approved your review will be published!"
+msgstr ""
+"Muchas gracias! Su valoración está en proceso de verificación, una vez "
+"aprobada la publicaremos."
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:62
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:63
+msgid "Name"
+msgstr "Nombre"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:66
+msgid "Rating"
+msgstr "Valoración"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:76
+msgid "Insert your Email"
+msgstr "Introduce tu correo electrónico"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:80
+msgid "What was the most important?"
+msgstr "Qué fué lo más importante?"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:85
+msgid "What did liked you and what not? Express your opinion."
+msgstr "Qué te gustó y qué no? Exprésalo aquí."
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:89
+msgid "I have read the Terms & Conditions and the Privacy Policy"
+msgstr "He leído los Términos y condiciones y la Política de Privacidad"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:92
+msgid "Publish my opinion"
+msgstr "Publicar mi opinión"
+
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:120
+#: UI/Wordpress/Front/templates/GetReviewsBlock.php:121
+msgid "-"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Author"
+#~ msgid "Assign Authors"
+#~ msgstr "Autor"
+
+#~ msgid "ago"
+#~ msgstr "."
